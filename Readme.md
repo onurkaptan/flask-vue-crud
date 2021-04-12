@@ -11,4 +11,4 @@
 
 -how to run-
 	1)run app.py in one terminal
-	2)run npm run serve in another terminal
+	2)npm run serve in another terminal
